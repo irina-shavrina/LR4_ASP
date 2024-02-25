@@ -1,0 +1,32 @@
+{
+  "library": {
+    "books": [
+      {
+        "title": "Harry Potter 1",
+        "author": "J. K. Rowling"
+      },
+      {
+        "title": "Harry Potter 2",
+        "author": "J. K. Rowling"
+      },
+      {
+        "title": "Harry Potter 3",
+        "author": "J. K. Rowling"
+      }
+    ],
+    "profiles": [
+      {
+        "name": "Iryna",
+        "surname": "Shavrina"
+      },
+      {
+        "name": "Kate",
+        "surname": "Nikolson"
+      },
+      {
+        "name": "Matt",
+        "surname": "Wilson"
+      }
+    ]
+  }
+}
